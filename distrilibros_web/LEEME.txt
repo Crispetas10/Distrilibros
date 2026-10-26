@@ -1,0 +1,12 @@
+DISTRILIBROS — SITIO LISTO PARA PUBLICAR
+
+Contenido: index.html, styles.css, script.js y la carpeta assets/. Súbelos tal cual a tu hosting
+(la carpeta assets debe quedar junto a index.html). Para probar, abre index.html en el navegador.
+
+Compra: cada libro tiene el botón "Comprar por WhatsApp" que abre el chat con el mensaje listo
+(título y precio). Número configurado: https://wa.me/573153782176
+
+Para cambiar el número: busca "573153782176" en index.html y reemplázalo.
+Para cambiar un precio: edita el precio en la ficha y también el texto del enlace de ese botón.
+
+Pendiente recomendado: portadas limpias de "La Profecía se Cumple" y "Los anticancerígenos y la homeopatía".
